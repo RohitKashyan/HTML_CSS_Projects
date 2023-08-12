@@ -1,0 +1,15 @@
+:root{
+    --backgroundcolor:#917a7a;
+    --textcolor :#fff;
+    --fontfamily: sans-serif;
+}
+
+
+*{
+    margin:5px;
+    padding: 0%;
+    /* box-sizing: border-box; */
+    background-color:var(--backgroundcolor);
+    color: var(--textcolor);
+    font-family: var(--fontfamily);
+}
